@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-09T03:10:55Z" name="Default suite" finished-at="2023-04-09T03:11:35Z" duration-ms="40317">
+    <groups>
+    </groups>
+    <test started-at="2023-04-09T03:10:55Z" name="Default test" finished-at="2023-04-09T03:11:35Z" duration-ms="40317">
+      <class name="Auto_test.topic_05_webBrowser">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:10:55Z" name="beforeClass" finished-at="2023-04-09T10:10:57Z" duration-ms="2189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="Navigate_funtion()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:10:57Z" name="Navigate_funtion" finished-at="2023-04-09T10:11:12Z" duration-ms="14545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate_funtion -->
+        <test-method signature="TC_01_Verify_Url()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:11:12Z" name="TC_01_Verify_Url" finished-at="2023-04-09T10:11:20Z" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Verify_Url -->
+        <test-method signature="Verify_Title()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:11:20Z" name="Verify_Title" finished-at="2023-04-09T10:11:29Z" duration-ms="8569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Title -->
+        <test-method signature="get_page_source_code()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:11:29Z" name="get_page_source_code" finished-at="2023-04-09T10:11:35Z" duration-ms="6384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_page_source_code -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Auto_test.topic_05_webBrowser@2de23121]" started-at="2023-04-09T10:11:35Z" name="afterClass" finished-at="2023-04-09T10:11:35Z" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Auto_test.topic_05_webBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
